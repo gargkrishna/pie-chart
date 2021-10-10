@@ -1,0 +1,21 @@
+#main-heading {
+  margin: auto;
+  width: 60%;
+  margin-top: 1rem;
+  padding: 0.5em;
+  font-size: 1.5em;
+  font-weight: 900;
+  background: rgb(200, 200, 200);
+  border-radius: 0.6em;
+}
+#sub-heading {
+  margin: auto;
+  width: 60%;
+  border-bottom: 1px solid rgb(200, 200, 200);
+  padding: 0.5rem;
+  font-size: 18px;
+  color: rgb(100, 100, 100);
+}
+#pie {
+  
+}
